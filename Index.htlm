@@ -524,7 +524,7 @@ body{font-family:'Jost',sans-serif;background:var(--navy);color:var(--text);min-
 
 <script>
 // ═══════════════════════════════════
-const APPS_SCRIPT_URL = "PEGA_TU_URL_AQUI";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxp61jFSLHIFbDIn9IbAalmRJZsRfHqCvidY5e0dwAq6aWPGTHfdo08PzhIe-l32WSQXg/exec";
 // ═══════════════════════════════════
 
 const OPTS=[
